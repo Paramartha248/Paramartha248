@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paramartha248
-- 👀 I’m interested in ...Machine Learning and AI, game development and programming
-- 🌱 I’m currently learning ...Machine Learning
+- 👀 I’m interested in Data Analytics and Business Insights
+- 🌱 I’m currently learning deriving business insights from data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
